@@ -7,9 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <br>
   View my <a href="https://www.linkedin.com/in/abhinavsharma07/">LinkedIn Profile</a>
+  <br>
   Visit <a href="https://www.necrozmalabs.com/">Necrozma Labs</a> 
   <br> 
-  Email Me: <a href="mailto:abhinavsharma8750@gmail.com">here</a>
+  <a href="mailto:abhinavsharma8750@gmail.com">Email me</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
