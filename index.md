@@ -1,11 +1,14 @@
-## Rudr's Work on Quantum Field Theory
+## Rudr’s Work in Theoretical Physics
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Quantum Field Theory
+[Unified Conscious Fields](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Solar Energy
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -16,10 +19,3 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
----
-
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

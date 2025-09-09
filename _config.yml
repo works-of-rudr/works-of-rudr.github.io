@@ -3,15 +3,16 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Theoretical Physicist - Necrozma Labs
   <br>
+  <br>
   Quantum Field Theory & Consciousness - where physics and awareness converge to shape a deeper understanding of reality. 
   <br>
   <br>
-  View my <a href="https://www.linkedin.com/in/abhinavsharma07/">LinkedIn Profile</a>
+  Want to view my [LinkedIn Profile](https://www.linkedin.com/in/abhinavsharma07/).  
   <br>
-  Visit <a href="https://www.necrozmalabs.com/">Necrozma Labs</a> 
-  <br> 
-  <a href="mailto:abhinavsharma8750@gmail.com">Email me</a>
-  
+  Or visit [Necrozma Labs](https://www.necrozmalabs.com/).  
+  <br>
+  Want to connect? Just [Email me](mailto:abhinavsharma8750@gmail.com).
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
