@@ -1,10 +1,15 @@
 title: Rudr # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  Theoretical Physicist - Necrozma Labs
+  <br>
   Quantum Field Theory & Consciousness - where physics and awareness converge to shape a deeper understanding of reality. 
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  View my <a href="https://www.linkedin.com/in/abhinavsharma07/">LinkedIn Profile</a>
+  Visit <a href="https://www.necrozmalabs.com/">Necrozma Labs</a> 
+  <br> 
+  Email Me: <a href="mailto:abhinavsharma8750@gmail.com">here</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
