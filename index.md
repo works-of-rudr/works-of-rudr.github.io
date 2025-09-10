@@ -6,7 +6,7 @@
 [Unified Conscious Fields](/unified-conscious-field-theory)
 
 
-The Unified Consciousness Field Theory (UCFT) proposes that reality is not composed of multiple independent quantum fields but rather emerges from a single universal field of consciousness. Unlike standard quantum field theory, which postulates separate fields for each particle type, the UCFT asserts that there is only one indivisible field underlying the entire cosmos.
+The Unified Conscious Field Theory (UCFT) proposes that reality is not composed of multiple independent quantum fields but rather emerges from a single universal field of consciousness. Unlike standard quantum field theory, which postulates separate fields for each particle type, the UCFT asserts that there is only one indivisible field underlying the entire cosmos.
 
 ---
 
